@@ -19,6 +19,12 @@ A custom post type for managing galleries
 * english
 * german
 
+## Changelog
+
+### v0.2
+
+* Attachments support
+
 ### v0.1
 
 * Initial release
